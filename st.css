@@ -1,0 +1,486 @@
+* {
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: rgb(18, 17, 17);
+    color: aliceblue;
+    margin: 0%;
+}
+
+.shapka {
+    position: sticky;
+    height: 7vh;
+    width: 100vw;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.stil {
+    display: flex;
+    width: 25vw;
+    justify-content: space-around;
+    font-size: 14px;
+    height: 7vh;
+    align-items: center
+}
+
+.home {
+    color: rgb(17 141 168);
+    height: 2vh;
+}
+
+.left {
+    margin-left: 2.2vh;
+    font-size: large;
+    font-weight: 900;
+
+}
+
+.p {
+    height: 2vh;
+}
+
+.boy {
+    display: flex;
+    align-items: center;
+    width: 90vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding-top: 12vh;
+}
+
+.otdelno {
+    font-size: 5vw;
+    font-weight: 300;
+    margin: 0%;
+}
+
+.pust {
+    font-weight: 800;
+}
+
+.otsbl {
+    padding-left: 5vw;
+    flex-direction: column;
+
+}
+
+.liss {
+    font-size: 1.5vh;
+    font-weight: 400;
+    margin-top: 5 vh;
+    margin-bottom: 1.5vh;
+
+}
+
+.im {
+    width: 3vh;
+
+}
+
+.imig {
+    width: 15vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.boyim {
+    border-radius: 5%;
+    height: 90vh;
+}
+
+.latest {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 10vh;
+    align-items: center;
+    margin-bottom: 8vh;
+}
+
+.buk {
+    font-size: 5vw;
+    font-weight: 300;
+    margin: 0%;
+
+}
+
+.knopka {
+    width: 10vw;
+    height: 3vw;
+    color: aliceblue;
+    background-color: rgb(17 141 168);
+    border-radius: 10px;
+    border: 0cap;
+}
+
+.frame {
+    display: flex;
+    align-items: center;
+    width: 30vw;
+    height: 40vh;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    padding-top: 12vh;
+}
+
+.pole {
+    background-color: black;
+    width: 90vw;
+    border-radius: 20px;
+    margin-left: 5vh;
+
+    margin-bottom: 10vh;
+    position: relative;
+    padding: 2vw;
+    display: flex;
+}
+
+.foto {
+    width: 25vw;
+    
+}
+
+.fyf {
+    margin-left: 10vw;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    background-color: black;
+    justify-content: space-between;
+}
+
+.odin {
+    width: 4vw;
+    height: 1vh;
+    background-color: rgb(42, 39, 39);
+    border-radius: 5px;
+    margin-bottom: 2vh;
+    margin-top: 2vh;
+    padding: 0.5vh;
+    font-size: 1.5vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.odin1 {
+    font-size: 14px;
+    width: 7vw;
+    height: 2vh;
+    background-color: rgb(42, 39, 39);
+    border-radius: 5px;
+    margin-bottom: 2vh;
+    margin-top: 2vh;
+    padding: 0.5vh;
+    font-size: 1.5vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.dva {
+    font-size: 11.5px;
+    color: rgb(17 141 168);
+    background-color: black;
+
+    margin-bottom: 1vh;
+}
+
+.tri {
+    font-size: 5vw;
+<<<<<<< HEAD
+    font-weight: 200;
+    background-color: black;
+    margin-bottom: 2vh;
+    line-height: 6vh;
+    line-height: 2vh;
+=======
+    font-weight: 300;
+    background-color: rgba(255, 73, 73, 0);
+    
+}
+#b{
+   position: relative;
+   top:-2vh 
+}
+
+.chet {
+    font-size: 2vh;
+    font-weight: 100;
+    background-color: black;
+    margin-bottom: 4vh;
+}
+
+.knopka1 {
+    width: 15vw;
+    height: 3vw;
+    color: aliceblue;
+    background-color: rgb(61, 61, 216);
+    border-radius: 10px;
+    border: 0cap;
+}
+
+.odin1 {
+    font-size: 14px;
+    width: 8vw;
+    height: 3vh;
+    background-color: rgb(42, 39, 39);
+    border-radius: 5px;
+    margin-bottom: 2vh;
+    margin-top: 2vh;
+>>>>>>> 666d64545c5d86d3b8ccb5f1591f1ed048ff60c4
+}
+
+.tri1 {
+    font-size: 5vw;
+    font-weight: 300;
+    background-color: black;
+    margin-bottom: 0vh;
+    line-height: 6vh;
+    margin-top: 2vh;
+}
+
+.chet {
+    font-size: 2vh;
+    font-weight: 100;
+    background-color: black;
+    margin-bottom: 1vh;
+    display: flex;
+    text-align: justify;
+}
+
+.knopka1 {
+    width: 15vw;
+    height: 3vw;
+    color: aliceblue;
+    background-color: rgb(17 141 168);
+    border-radius: 8px;
+    border: 0cap;
+    margin-top: 2vh;
+}
+
+
+
+
+
+.bob {
+    display: flex;
+    justify-content: space-around;
+}
+
+.qwe {
+    width: 35vw;
+    display: flex;
+    align-items: baseline;
+    flex-direction: column;
+}
+
+.posled {
+    height: 60vh;
+}
+
+.strelka {
+    height: 10vh;
+}
+
+.blue {
+    color: rgb(17 141 168);
+    font-size: 14px;
+    margin-bottom: 2vh;
+    margin-top: 2vh;
+}
+
+.jacob {
+    font-size: 8vh;
+    margin-bottom: 3vh;
+}
+
+.stroca {
+    font-size: 2vh;
+    font-weight: 100;
+    margin-bottom: 3vh;
+}
+
+.forma {
+    width: 90vw;
+    height: 37vh;
+    border-radius: 20px;
+    background-color: black;
+    margin: 5vw;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.sub {
+    font-size: 7vh;
+    background-color: black;
+}
+
+.levo {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    margin: 3vh;
+}
+
+.blue1 {
+    color: rgb(17 141 168);
+    font-size: 12px;
+    margin-bottom: 0vh;
+    margin-top: 2vh;
+    background-color: black;
+
+}
+
+.for {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 10vw;
+    w
+}
+
+.sad {
+    width: 27vw;
+    height: 6vh;
+    border-radius: 5px;
+    margin-bottom: 3vh;
+    background-color: rgb(47, 46, 46);
+    border: 0cap;
+    font-size: 2vh;
+    color: aliceblue;
+}
+
+.knopka2 {
+    width: 6vw;
+    height: 3.5vw;
+    color: aliceblue;
+    background-color: rgb(17 141 168);
+    border-radius: 10px;
+    border: 0cap;
+}
+
+.ots {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0.1vh;
+    margin-top: 2vh;
+    margin-right: 8vh;
+    margin-bottom: 0vh;
+    margin-left: 8vh;
+}
+
+.ots1 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0.1vh;
+    margin-top: 2vh;
+    margin-right: 8vh;
+    margin-bottom: 0vh;
+    margin-left: 8vh;
+
+}
+
+.otzivi {
+    width: 27vw;
+    height: 30vh;
+    flex-direction: column;
+}
+
+.titri {
+    font-size: 4.5vh;
+    font-weight: bolder;
+    margin-top: 15vh;
+    height: 40vh;
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-evenly;
+}
+
+.ca {
+    font-size: 5vh;
+    font-weight: 700;
+}
+
+.insta {
+    width: 20px;
+}
+
+.colonka {
+    font-size: 2vh;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.imim {
+    width: 3vh;
+
+}
+
+.posle1 {
+    font-size: 1.5vh;
+    margin-bottom: 1vh;
+    font-weight: 200;
+    margin-top: 2vh;
+}
+
+.posle {
+    font-size: 1.5vh;
+    margin-bottom: 1vh;
+    font-weight: 200;
+}
+
+.object {
+    display: flex;
+    align-content: space-around;
+    width: 90vw;
+    color: black;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    justify-content: space-around;
+    padding-bottom: 5vw;
+
+
+}
+
+.isprint {
+    display: flex;
+    background-color: black;
+    border-radius: 20px;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-top: 3vh;
+    height: 25vh;
+    width: 28vw;
+    font-size: 20px;
+}
+
+.ert0 {
+    font-size: 15px;
+    background-color: black;
+    margin-left: 2vw;
+}
+
+.ert {
+    background-color: black;
+    margin-left: 2vw;
+    font-size: 3vh;
+    font-weight: 200;
+    line-height: 40px;
+}
+
+.ert1 {
+    background-color: black;
+    margin-left: 2vw;
+    font-weight: 100;
+    font-size: 15px;
+}
